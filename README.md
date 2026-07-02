@@ -1,2 +1,1 @@
-# AI-powered-Applicant-Tracking-System
-An AI-powered Applicant Tracking System built with Streamlit and Python that automates resume screening by comparing candidate resumes with job descriptions using Natural Language Processing (NLP). 
+An AI-powered Applicant Tracking System built with Streamlit and Python that automates resume screening by comparing candidate resumes with job descriptions using Natural Language Processing (NLP). The application extracts text from PDF resumes, calculates a relevance score using TF-IDF and Cosine Similarity, and helps recruiters identify the most suitable candidates quickly, reducing manual screening time and improving hiring efficiency.
